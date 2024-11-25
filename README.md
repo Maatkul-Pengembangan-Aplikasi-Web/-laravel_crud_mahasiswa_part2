@@ -26,3 +26,4 @@
     ];
 ```
 5. lakukan migration untuk menambahkan tabel mahasiswas pada database dengan command `php artisan migrate`
+=======
