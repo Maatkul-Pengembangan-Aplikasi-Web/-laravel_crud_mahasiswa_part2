@@ -88,7 +88,7 @@
     </div>
 </x-app-layout>
 ```
-2. pada file `ProdiController` masukan kode untuk function index halaman mahasiswa
+2. pada file `MahasiswaController` masukan kode untuk function index halaman mahasiswa
 ```
     public function index()
     {
